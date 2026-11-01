@@ -1,0 +1,601 @@
+Order_ID,Region,Shipping_Mode,Distance_KM,Shipment_Weight_KG,Shipment_Volume,Scheduled_Delivery_Days,Delivery_Time_Days,Transportation_Cost,Fuel_Cost,Delivery_Status
+1001,East,Standard,127,8,47,6,2,1334.52,175.35,Early
+1002,West,Express,845,95,14,7,3,3479.11,744.29,Early
+1003,North,Same Day,796,21,39,6,3,3642.29,766.64,Early
+1004,East,Same Day,733,81,25,7,2,3818.38,621.4,Early
+1005,East,Same Day,234,87,20,8,1,2754.44,290.89,Early
+1006,West,Standard,541,80,2,3,5,2172.9,520.14,Delayed
+1007,North,Express,122,70,39,7,1,2000.38,141.37,Early
+1008,North,Express,149,72,6,4,2,1993.98,181.95,Early
+1009,East,Express,568,25,17,6,5,2692.54,550.04,Early
+1010,South,Same Day,10,82,25,7,1,2079.5,149.36,Early
+1011,East,Standard,99,89,28,7,3,1219.07,153.08,Early
+1012,East,Same Day,663,12,2,8,3,3120.01,678.94,Early
+1013,East,Same Day,329,15,35,6,1,2392.62,365.73,Early
+1014,East,Express,559,59,37,3,4,3034.09,599.62,Delayed
+1015,West,Same Day,814,26,5,8,3,3126.98,727.02,Early
+1016,North,Express,903,26,1,3,7,3290.2,820.45,Delayed
+1017,West,Standard,148,47,40,8,3,2089.46,233.14,Early
+1018,West,Express,520,32,12,6,4,2426.91,508.82,Early
+1019,West,Standard,877,10,36,2,6,2874.46,839.72,Delayed
+1020,East,Express,854,16,45,6,4,3338.81,694.9,Early
+1021,South,Same Day,268,71,23,6,1,2924.32,411.3,Early
+1022,North,Same Day,682,17,47,3,2,3652.58,679.91,Early
+1023,South,Standard,911,23,31,3,8,3190.83,821.86,Delayed
+1024,West,Standard,699,26,11,6,5,2214.78,637.11,Early
+1025,West,Standard,19,85,10,6,1,1353.02,80.54,Early
+1026,South,Express,270,86,3,6,1,2070.36,341.82,Early
+1027,South,Express,928,7,14,3,6,2925.21,882.2,Delayed
+1028,South,Standard,659,14,16,6,4,2196.42,620.7,Early
+1029,West,Same Day,181,79,10,6,1,2334.15,289.08,Early
+1030,West,Express,907,7,29,5,6,3460.67,789.31,Delayed
+1031,North,Express,22,9,10,2,1,935.25,74.25,Early
+1032,North,Express,177,48,12,4,1,1832.84,314.13,Early
+1033,West,Standard,651,72,30,2,6,2709.58,644.44,Delayed
+1034,South,Standard,605,59,41,5,4,2794.87,639.87,Early
+1035,South,Standard,330,87,1,4,3,1789.68,329.84,Early
+1036,North,Standard,328,93,5,8,3,1749.3,325.46,Early
+1037,West,Standard,622,82,20,6,3,2801.48,583.26,Early
+1038,North,Same Day,338,95,8,5,1,2907.23,337.44,Early
+1039,North,Same Day,794,94,43,8,4,4416.28,763.41,Early
+1040,East,Standard,786,39,12,6,5,2558.01,698.75,Early
+1041,East,Express,980,99,1,3,4,3570.97,837.13,Delayed
+1042,East,Standard,920,18,20,7,7,3052.97,841.68,On Time
+1043,South,Same Day,929,59,28,5,5,4334.42,791.6,On Time
+1044,West,Same Day,559,17,43,3,2,3129.75,475.22,Early
+1045,West,Express,428,14,37,5,1,2360.16,447.73,Early
+1046,West,Same Day,615,31,47,5,1,3702.56,522.03,Early
+1047,West,Standard,104,24,37,3,1,1232.53,214.21,Early
+1048,East,Express,826,99,12,4,6,3548.86,704.99,Delayed
+1049,South,Standard,590,60,37,2,4,2715.85,482.37,Delayed
+1050,South,Standard,327,45,49,6,2,2034.76,349.85,Early
+1051,East,Express,965,98,49,5,4,4499.28,877.78,Early
+1052,South,Standard,245,3,44,6,2,1510.6,315.66,Early
+1053,East,Same Day,955,37,28,7,3,3941.87,870.88,Early
+1054,West,Standard,343,43,47,3,2,2222.15,332.03,Early
+1055,East,Express,894,40,15,6,5,3111.22,843.72,Early
+1056,West,Express,385,90,6,3,2,2851.68,446.41,Early
+1057,West,Express,468,55,44,6,4,3132.45,426.17,Early
+1058,North,Standard,146,87,20,2,3,1799.63,209.56,Delayed
+1059,East,Express,939,39,50,2,5,3905.08,840.22,Delayed
+1060,North,Express,597,15,14,2,2,2520.24,586.42,On Time
+1061,East,Standard,556,4,2,2,5,1641.16,536.6,Delayed
+1062,East,Same Day,522,93,9,2,4,3403.92,514.88,Delayed
+1063,North,Standard,305,86,37,2,1,2086.84,369.67,Early
+1064,North,Express,329,25,20,3,2,2104.49,318.65,Early
+1065,East,Express,927,13,26,5,5,3461.61,871.09,On Time
+1066,South,Standard,581,82,29,6,5,2664.14,610.45,Early
+1067,West,Same Day,841,33,1,2,6,3369.08,838.17,Delayed
+1068,North,Express,358,16,35,3,2,1967.35,300.67,Early
+1069,West,Express,849,42,6,3,3,3388.23,771.88,On Time
+1070,South,Express,788,66,37,3,5,3462.78,651.8,Delayed
+1071,South,Standard,882,55,5,5,7,2854.63,708.2,Delayed
+1072,South,Express,238,99,33,6,1,2615.63,296.16,Early
+1073,North,Same Day,279,42,49,5,1,2938.6,307.23,Early
+1074,South,Express,837,34,14,4,4,3265.78,781.59,On Time
+1075,North,Express,807,30,12,8,5,2941.12,765.05,Early
+1076,South,Same Day,300,13,42,3,1,2413.04,389.92,Early
+1077,West,Express,734,13,20,4,4,2572.34,689.36,On Time
+1078,West,Standard,174,18,50,7,2,1472.53,356.13,Early
+1079,East,Standard,14,32,24,2,1,853.47,123.46,Early
+1080,West,Standard,860,96,43,8,6,3571.35,861.7,Early
+1081,East,Same Day,388,99,34,2,1,3638.96,317.09,Early
+1082,West,Express,87,39,25,5,1,1585.49,223.59,Early
+1083,North,Standard,419,46,50,8,4,2271.82,427.97,Early
+1084,West,Same Day,583,29,29,6,1,3209.65,488.47,Early
+1085,East,Express,141,62,39,4,1,2051.19,229.62,Early
+1086,East,Same Day,610,93,31,6,1,3795.87,575.88,Early
+1087,South,Standard,758,62,47,5,6,3274.96,729.6,Delayed
+1088,North,Standard,51,57,43,2,1,1693.46,181.24,Early
+1089,West,Standard,98,16,50,8,1,1574.18,118.83,Early
+1090,South,Same Day,411,56,23,6,2,3348.43,469.4,Early
+1091,West,Same Day,305,10,44,6,1,2731.48,344.26,Early
+1092,West,Standard,849,30,38,2,5,3416.01,833.31,Delayed
+1093,South,Same Day,304,25,20,8,1,2319.03,334.99,Early
+1094,South,Standard,625,84,23,4,6,3149.43,581.18,Delayed
+1095,South,Standard,535,5,45,2,4,2138.53,529.08,Delayed
+1096,South,Express,809,65,16,6,5,3291.04,751.27,Early
+1097,South,Same Day,700,94,50,4,4,4220.42,633.49,On Time
+1098,West,Standard,646,49,42,4,5,2727.85,596.95,Delayed
+1099,South,Standard,431,3,8,2,5,1533.65,395.72,Delayed
+1100,North,Same Day,874,45,50,6,3,4128.39,781.81,Early
+1101,East,Express,32,14,21,5,1,1433.79,152.65,Early
+1102,South,Express,584,30,1,6,2,2287.29,561.71,Early
+1103,South,Standard,152,68,8,3,2,1542.41,261.96,Early
+1104,West,Same Day,674,18,29,8,2,3599.79,631.78,Early
+1105,South,Express,154,62,32,7,1,2004.52,165.94,Early
+1106,South,Same Day,234,37,38,5,1,2759.79,311.09,Early
+1107,South,Same Day,512,25,5,4,3,2837.05,482.66,Early
+1108,West,Standard,971,48,47,5,7,3939.72,867.47,Delayed
+1109,South,Express,983,65,22,8,5,3705.73,935.9,Early
+1110,East,Standard,830,53,47,4,6,3407.11,717.57,Delayed
+1111,West,Express,625,79,34,8,2,2972.32,606.59,Early
+1112,East,Express,113,73,1,4,1,1605.35,188.78,Early
+1113,West,Express,956,15,26,5,6,3448.81,892.84,Delayed
+1114,South,Express,48,49,43,4,1,2114.37,172.61,Early
+1115,East,Express,956,88,10,4,6,3556.53,875.35,Delayed
+1116,West,Same Day,207,68,30,3,1,2850.9,251.19,Early
+1117,North,Standard,655,12,50,6,6,2575.62,642.93,On Time
+1118,South,Same Day,588,59,18,6,4,3057.73,623.83,Early
+1119,West,Express,400,37,17,7,1,2262.69,418.91,Early
+1120,North,Standard,188,61,26,7,1,1971.25,239.71,Early
+1121,West,Express,977,43,8,3,5,3237.72,897.13,Delayed
+1122,North,Standard,563,70,47,7,4,2792.81,551.95,Early
+1123,South,Same Day,457,39,40,8,3,2969.8,412.09,Early
+1124,East,Standard,509,56,49,5,4,2521.46,516.77,Early
+1125,North,Standard,24,63,12,2,3,1408.59,65.33,Delayed
+1126,West,Standard,632,46,27,8,2,2483.53,620.58,Early
+1127,South,Standard,678,88,8,2,6,2993.88,610.51,Delayed
+1128,North,Standard,298,11,25,2,2,1693.23,339.87,On Time
+1129,West,Express,487,62,46,3,2,2904.11,505.22,Early
+1130,West,Standard,240,77,4,8,2,1551.53,390.16,Early
+1131,West,Standard,932,98,33,3,5,3519.12,875.31,Delayed
+1132,North,Same Day,429,25,1,4,2,2338.24,497.79,Early
+1133,North,Standard,166,71,19,2,2,1674.78,307.67,On Time
+1134,North,Same Day,559,52,31,5,2,3364.24,566.77,Early
+1135,East,Express,450,4,16,7,3,1951.75,471.43,Early
+1136,North,Standard,106,59,14,5,3,1044.42,142.13,Early
+1137,North,Same Day,420,72,48,7,1,3445.11,431.33,Early
+1138,North,Same Day,960,20,5,2,5,3597.48,839.08,Delayed
+1139,East,Express,298,93,41,2,2,2706.45,322.36,On Time
+1140,North,Standard,263,63,26,2,3,1899.44,385.23,Delayed
+1141,West,Standard,205,54,28,3,3,1218.68,268.58,On Time
+1142,North,Same Day,607,74,2,8,4,3025.41,550.56,Early
+1143,West,Standard,843,98,50,7,5,4101.96,829.38,Early
+1144,West,Same Day,531,57,6,8,1,2955.01,563.01,Early
+1145,West,Standard,526,90,9,3,3,1982.06,561.11,On Time
+1146,East,Same Day,644,41,33,3,3,3229.81,534.95,On Time
+1147,East,Standard,851,3,41,6,6,3285.4,858.75,On Time
+1148,East,Express,874,6,25,5,4,2994.26,776.86,Early
+1149,North,Standard,127,5,48,5,1,1554.02,232.72,Early
+1150,West,Standard,815,5,13,4,6,2460.8,852.95,Delayed
+1151,East,Express,918,54,9,3,6,3322.31,920.61,Delayed
+1152,East,Standard,168,47,13,7,2,1491.18,195.3,Early
+1153,North,Express,824,87,31,6,4,3301.62,701.42,Early
+1154,East,Standard,237,49,41,6,2,1596.0,346.81,Early
+1155,North,Same Day,886,9,11,8,4,3414.58,814.48,Early
+1156,South,Same Day,225,99,4,5,1,2443.28,259.96,Early
+1157,East,Standard,957,20,34,3,5,3018.86,890.45,Delayed
+1158,South,Standard,705,61,38,4,5,3098.67,657.48,Delayed
+1159,North,Standard,24,35,46,3,1,1358.58,147.25,Early
+1160,West,Same Day,166,50,4,8,1,2402.71,235.48,Early
+1161,East,Standard,657,82,38,2,5,3042.57,654.5,Delayed
+1162,North,Same Day,270,62,19,3,1,2846.64,280.22,Early
+1163,West,Express,166,17,6,8,1,1411.67,289.78,Early
+1164,West,Same Day,56,88,34,2,1,2478.95,172.7,Early
+1165,South,Same Day,333,3,18,2,2,2589.1,392.25,On Time
+1166,North,Express,853,32,13,4,5,3010.92,737.69,Delayed
+1167,West,Same Day,694,99,41,7,2,4222.69,723.19,Early
+1168,East,Standard,139,13,23,5,3,1274.2,210.65,Early
+1169,East,Standard,420,89,19,3,3,2465.47,465.12,On Time
+1170,South,Same Day,104,73,45,2,1,2493.02,170.29,Early
+1171,West,Standard,636,68,11,3,6,2714.55,619.24,Delayed
+1172,North,Same Day,764,14,1,7,2,2978.59,723.09,Early
+1173,East,Standard,941,98,24,5,6,3738.13,740.0,Delayed
+1174,West,Standard,301,11,7,7,3,1380.53,364.1,Early
+1175,West,Same Day,803,56,25,5,4,4011.95,821.01,Early
+1176,South,Standard,820,67,21,6,4,2825.1,777.59,Early
+1177,East,Same Day,292,92,15,5,1,3014.23,295.29,Early
+1178,East,Standard,78,29,1,4,3,1061.01,188.4,Early
+1179,North,Standard,669,9,12,7,4,2172.61,677.58,Early
+1180,East,Express,20,67,7,2,1,1366.65,136.5,Early
+1181,North,Express,263,25,15,6,3,1974.15,307.43,Early
+1182,East,Same Day,851,98,21,4,4,4278.71,771.11,On Time
+1183,South,Express,881,76,19,3,5,3322.8,794.95,Delayed
+1184,East,Same Day,559,42,29,7,2,3102.49,575.11,Early
+1185,North,Express,143,9,25,8,1,1441.87,158.12,Early
+1186,North,Standard,721,79,33,8,6,3335.25,661.93,Early
+1187,South,Same Day,32,40,49,2,1,2567.83,189.42,Early
+1188,East,Same Day,824,25,32,5,4,3985.65,824.57,Early
+1189,East,Standard,355,5,49,2,3,1900.82,324.87,Delayed
+1190,South,Same Day,311,11,35,8,1,2706.65,303.54,Early
+1191,East,Same Day,372,59,44,3,2,2963.06,386.78,Early
+1192,East,Express,405,98,38,6,2,2982.22,459.7,Early
+1193,North,Same Day,227,88,26,6,1,2946.69,208.5,Early
+1194,East,Standard,150,79,11,7,2,1350.52,217.81,Early
+1195,East,Express,625,38,35,6,4,2986.78,581.03,Early
+1196,South,Express,967,72,8,7,7,3953.0,926.64,On Time
+1197,South,Standard,219,5,46,7,1,1624.38,208.12,Early
+1198,West,Standard,994,48,14,7,7,3353.96,898.9,On Time
+1199,North,Express,632,90,10,8,3,2638.97,589.86,Early
+1200,East,Same Day,625,18,2,8,2,3173.43,658.79,Early
+1201,East,Express,837,70,46,5,4,3769.9,793.51,Early
+1202,West,Standard,692,37,9,4,5,2238.04,630.17,Delayed
+1203,East,Express,469,60,3,7,3,2366.37,509.34,Early
+1204,North,Standard,365,48,21,7,2,1621.7,376.45,Early
+1205,West,Express,333,77,26,4,1,2699.23,406.37,Early
+1206,North,Same Day,142,28,8,2,1,1922.03,204.12,Early
+1207,West,Express,897,69,48,7,4,3818.45,859.79,Early
+1208,West,Express,814,77,2,5,3,3250.55,768.64,Early
+1209,South,Standard,849,81,6,6,3,3239.04,909.62,Early
+1210,North,Standard,136,40,28,6,1,1428.86,206.68,Early
+1211,East,Standard,115,45,29,3,1,1157.26,207.31,Early
+1212,East,Express,613,96,26,3,2,3362.3,571.22,Early
+1213,North,Same Day,808,62,25,6,3,3756.38,746.51,Early
+1214,East,Standard,387,93,12,6,3,1801.3,301.53,Early
+1215,East,Standard,914,58,5,8,5,3254.08,849.82,Early
+1216,North,Express,60,67,34,5,1,2008.3,201.71,Early
+1217,West,Standard,38,56,48,4,2,1543.51,146.27,Early
+1218,North,Same Day,471,40,37,3,2,3087.99,424.25,Early
+1219,West,Same Day,305,98,15,8,1,3236.47,311.93,Early
+1220,East,Standard,306,40,44,8,2,2526.89,247.59,Early
+1221,East,Standard,735,91,36,4,5,3307.78,727.16,Delayed
+1222,East,Express,788,77,15,8,6,3194.27,690.14,Early
+1223,South,Same Day,416,33,43,5,1,3017.4,431.65,Early
+1224,West,Same Day,778,6,48,6,3,3763.1,716.25,Early
+1225,South,Standard,823,88,23,7,4,2817.68,817.91,Early
+1226,South,Express,622,19,6,4,4,2502.61,601.01,On Time
+1227,North,Same Day,414,80,46,6,1,3531.36,463.56,Early
+1228,South,Same Day,355,40,50,6,1,3289.74,405.86,Early
+1229,North,Express,631,92,44,2,4,3722.18,659.18,Delayed
+1230,North,Express,429,97,43,4,3,3105.81,433.64,Early
+1231,South,Same Day,191,59,45,8,1,3054.83,327.58,Early
+1232,West,Same Day,992,59,21,7,5,4622.82,814.17,Early
+1233,West,Express,834,48,23,4,4,3349.83,801.5,On Time
+1234,West,Same Day,10,41,43,8,1,2291.27,73.34,Early
+1235,West,Standard,840,13,16,6,5,2275.89,752.29,Early
+1236,West,Standard,959,45,47,7,6,3222.62,889.98,Early
+1237,South,Express,576,89,15,8,3,2858.32,583.26,Early
+1238,South,Express,380,53,25,5,2,2330.15,428.26,Early
+1239,East,Express,945,42,36,8,4,3499.7,800.55,Early
+1240,West,Standard,920,100,11,2,6,3399.52,893.96,Delayed
+1241,South,Same Day,670,63,15,6,4,3433.53,599.97,Early
+1242,East,Standard,440,27,4,8,2,1874.76,421.31,Early
+1243,West,Same Day,978,38,21,3,6,3972.14,907.92,Delayed
+1244,North,Standard,318,60,13,3,3,1373.99,342.93,On Time
+1245,East,Same Day,146,7,22,2,1,2013.84,229.13,Early
+1246,South,Standard,211,5,19,5,1,1179.64,182.54,Early
+1247,North,Express,445,45,34,6,2,2441.83,467.37,Early
+1248,North,Standard,322,58,14,4,2,1807.5,366.31,Early
+1249,North,Same Day,126,31,4,2,1,1729.65,180.41,Early
+1250,East,Standard,675,23,48,5,2,2754.37,557.04,Early
+1251,South,Standard,946,42,46,4,6,3893.13,848.29,Delayed
+1252,North,Standard,812,10,27,3,4,2315.39,748.11,Delayed
+1253,West,Express,584,32,29,3,5,2645.88,552.51,Delayed
+1254,North,Standard,253,53,47,4,2,1872.83,228.95,Early
+1255,North,Express,546,30,28,2,4,2549.21,600.59,Delayed
+1256,East,Express,611,39,35,3,5,3109.79,563.25,Delayed
+1257,East,Standard,84,31,8,6,3,1076.51,158.31,Early
+1258,South,Standard,815,82,16,7,5,3243.78,655.62,Early
+1259,West,Standard,395,100,42,8,3,2628.49,479.79,Early
+1260,East,Same Day,912,2,36,4,4,3566.42,810.94,On Time
+1261,North,Standard,219,78,30,4,3,1715.16,279.14,Early
+1262,South,Express,484,77,18,3,2,2881.13,532.03,Early
+1263,North,Standard,427,93,2,2,3,2188.15,414.55,Delayed
+1264,North,Same Day,356,12,49,6,1,3044.04,423.33,Early
+1265,East,Standard,538,39,13,2,3,2154.39,447.95,Delayed
+1266,South,Same Day,649,66,4,5,2,3140.86,641.24,Early
+1267,West,Same Day,948,96,26,5,4,4421.66,921.29,Early
+1268,West,Standard,964,13,25,7,6,3076.47,847.98,Early
+1269,East,Express,885,46,30,3,5,3652.86,852.76,Delayed
+1270,East,Same Day,772,27,11,3,4,3550.32,790.96,Delayed
+1271,South,Standard,188,17,7,3,1,894.87,240.21,Early
+1272,West,Standard,191,95,31,7,1,1786.01,239.3,Early
+1273,West,Express,673,98,44,5,3,3608.44,602.47,Early
+1274,West,Same Day,34,60,10,2,1,2284.01,106.81,Early
+1275,North,Same Day,976,64,39,7,4,4352.3,848.19,Early
+1276,West,Standard,189,88,13,7,2,1807.69,215.24,Early
+1277,North,Standard,719,35,31,2,5,2765.71,723.15,Delayed
+1278,South,Express,510,70,7,3,2,2752.94,476.4,Early
+1279,North,Express,865,83,49,6,6,4304.6,802.34,On Time
+1280,South,Same Day,170,30,42,2,1,2749.14,237.53,Early
+1281,West,Same Day,186,71,42,5,1,2724.17,308.72,Early
+1282,West,Standard,294,74,36,4,2,1743.18,315.07,Early
+1283,South,Same Day,72,96,20,4,1,2394.26,172.85,Early
+1284,East,Express,671,98,4,8,3,3171.82,668.44,Early
+1285,South,Express,675,63,7,8,3,2857.9,699.59,Early
+1286,East,Standard,165,28,1,7,1,1403.22,211.29,Early
+1287,North,Express,891,60,44,4,5,3821.58,788.08,Delayed
+1288,North,Express,478,79,45,6,2,3191.27,439.93,Early
+1289,North,Express,58,94,42,3,1,2272.7,235.85,Early
+1290,West,Express,976,37,47,5,5,3794.81,936.18,On Time
+1291,North,Standard,858,93,13,8,5,2891.13,784.71,Early
+1292,East,Standard,93,22,22,6,1,1080.45,251.66,Early
+1293,North,Same Day,370,68,21,5,2,3545.84,391.93,Early
+1294,South,Express,698,20,22,5,3,2585.6,687.38,Early
+1295,South,Same Day,157,96,28,3,1,2472.72,226.01,Early
+1296,West,Standard,639,100,9,7,5,3112.35,627.11,Early
+1297,South,Standard,351,68,26,4,3,2211.77,392.47,Early
+1298,East,Standard,485,91,9,3,5,2386.74,471.0,Delayed
+1299,North,Standard,72,64,15,6,2,1545.68,201.3,Early
+1300,West,Standard,710,17,10,7,7,2118.33,696.64,On Time
+1301,North,Standard,369,12,24,6,2,1626.61,436.31,Early
+1302,North,Standard,570,22,42,7,4,2555.93,568.81,Early
+1303,East,Express,336,17,8,8,2,2201.06,332.54,Early
+1304,South,Same Day,778,10,24,6,3,3219.26,790.78,Early
+1305,South,Standard,745,65,16,3,7,3031.53,685.5,Delayed
+1306,North,Express,150,22,49,7,1,2012.73,234.56,Early
+1307,West,Express,999,90,26,7,5,4109.15,924.62,Early
+1308,South,Same Day,224,82,27,5,1,2821.41,293.5,Early
+1309,West,Standard,444,50,37,5,3,2021.56,491.82,Early
+1310,South,Same Day,900,14,4,2,4,3663.36,862.94,Delayed
+1311,West,Standard,961,64,50,6,7,3535.39,859.81,Delayed
+1312,East,Express,732,47,24,5,5,2930.06,750.62,On Time
+1313,West,Express,327,29,19,2,3,2188.78,350.92,Delayed
+1314,East,Express,41,76,36,8,1,2122.24,146.27,Early
+1315,East,Express,679,36,39,8,2,3114.02,627.69,Early
+1316,West,Same Day,294,99,10,5,1,3103.12,308.26,Early
+1317,East,Standard,314,52,25,6,2,2113.47,392.97,Early
+1318,North,Standard,438,76,18,7,3,2473.08,575.28,Early
+1319,East,Same Day,486,7,19,4,2,2608.11,474.33,Early
+1320,South,Standard,295,29,36,6,2,1945.54,384.61,Early
+1321,West,Express,153,11,10,3,1,1432.7,209.36,Early
+1322,North,Standard,433,33,33,8,4,2373.26,445.98,Early
+1323,West,Express,28,6,50,5,1,1537.33,192.7,Early
+1324,South,Same Day,27,79,5,5,1,2037.24,78.66,Early
+1325,South,Standard,778,32,47,7,6,2871.12,668.87,Early
+1326,South,Same Day,599,51,49,3,4,3697.87,575.71,Delayed
+1327,East,Standard,380,75,35,7,3,2390.01,430.55,Early
+1328,East,Express,184,58,44,3,1,2334.27,265.75,Early
+1329,West,Same Day,203,87,34,4,1,2963.45,276.83,Early
+1330,West,Standard,511,26,33,8,3,2298.99,510.17,Early
+1331,North,Express,997,98,21,5,8,4039.34,929.06,Delayed
+1332,North,Same Day,122,46,17,5,1,2033.35,81.05,Early
+1333,West,Same Day,123,98,22,4,1,2495.83,168.37,Early
+1334,East,Standard,231,29,48,2,1,1941.71,281.06,Early
+1335,South,Standard,687,4,37,8,6,2522.06,677.78,Early
+1336,West,Standard,956,81,15,7,7,3047.15,924.39,On Time
+1337,North,Express,840,99,35,4,7,4107.42,736.6,Delayed
+1338,East,Standard,653,13,28,7,5,2665.08,680.68,Early
+1339,West,Same Day,906,39,7,6,4,3610.33,806.7,Early
+1340,West,Same Day,273,15,32,5,1,2515.11,313.2,Early
+1341,East,Standard,934,29,11,7,6,2783.58,870.46,Early
+1342,West,Standard,64,29,10,3,1,1055.9,143.07,Early
+1343,East,Same Day,880,75,9,7,4,3784.12,848.4,Early
+1344,South,Express,652,32,14,6,3,2695.54,605.42,Early
+1345,East,Standard,809,2,13,8,4,2578.44,731.62,Early
+1346,East,Standard,787,47,25,5,6,3079.83,771.68,Delayed
+1347,East,Same Day,467,78,2,4,1,3102.17,443.08,Early
+1348,West,Standard,988,84,35,6,3,3654.57,900.36,Early
+1349,West,Express,887,22,7,5,5,2774.73,743.18,On Time
+1350,East,Same Day,171,75,21,7,1,2441.84,309.59,Early
+1351,West,Standard,389,27,18,8,4,1653.33,459.46,Early
+1352,North,Same Day,96,67,3,2,1,2007.61,286.8,Early
+1353,North,Standard,64,81,42,8,2,1753.52,204.73,Early
+1354,West,Standard,485,56,39,2,6,2371.46,442.81,Delayed
+1355,West,Standard,809,92,41,3,5,3488.78,773.95,Delayed
+1356,East,Express,187,93,49,8,1,2809.87,212.88,Early
+1357,South,Express,400,21,11,5,3,1956.84,483.12,Early
+1358,West,Same Day,358,47,39,2,1,2732.68,342.35,Early
+1359,North,Standard,17,80,24,4,2,1289.09,67.63,Early
+1360,East,Standard,842,59,46,5,4,3431.45,709.21,Early
+1361,West,Express,322,84,19,4,1,2580.43,338.06,Early
+1362,North,Standard,768,6,4,8,6,2308.7,686.82,Early
+1363,North,Express,844,19,26,4,4,3404.93,724.73,On Time
+1364,South,Standard,993,57,38,2,7,3513.05,973.99,Delayed
+1365,East,Same Day,992,69,42,5,5,4957.79,914.8,On Time
+1366,East,Standard,452,3,32,7,3,1999.67,478.09,Early
+1367,South,Standard,776,1,39,6,6,2178.97,784.37,On Time
+1368,South,Express,337,58,45,2,1,2919.52,379.85,Early
+1369,East,Standard,63,38,46,2,1,1306.54,120.45,Early
+1370,East,Standard,770,15,36,7,5,2509.86,647.99,Early
+1371,West,Express,248,34,40,5,1,2241.88,266.2,Early
+1372,West,Same Day,238,61,37,5,1,2492.73,350.62,Early
+1373,South,Same Day,588,35,33,8,3,3194.42,520.19,Early
+1374,West,Express,60,64,36,4,1,2206.28,162.13,Early
+1375,North,Express,618,25,3,8,5,2545.72,635.76,Early
+1376,West,Express,613,24,9,7,3,2644.8,601.81,Early
+1377,West,Express,273,12,8,8,3,1524.36,334.36,Early
+1378,North,Express,427,18,33,7,3,2052.49,467.82,Early
+1379,South,Same Day,812,15,6,5,6,3455.63,764.77,Delayed
+1380,North,Same Day,105,80,41,4,1,2880.45,248.36,Early
+1381,West,Express,97,27,39,8,1,1906.7,135.99,Early
+1382,South,Standard,87,72,4,2,3,1303.03,179.22,Delayed
+1383,West,Express,297,60,13,3,2,1965.33,264.87,Early
+1384,North,Standard,129,46,49,6,3,2128.6,120.25,Early
+1385,North,Express,823,89,2,2,5,3482.96,755.13,Delayed
+1386,West,Express,500,17,5,5,1,2114.7,521.74,Early
+1387,East,Same Day,921,93,44,6,4,4617.7,902.03,Early
+1388,East,Standard,461,53,27,3,4,2239.13,565.59,Delayed
+1389,North,Standard,509,8,32,3,4,2210.33,559.99,Delayed
+1390,North,Same Day,174,79,21,4,1,2650.93,268.29,Early
+1391,East,Same Day,191,27,8,6,1,2236.73,259.2,Early
+1392,East,Same Day,478,46,38,4,3,3252.85,421.15,Early
+1393,West,Same Day,919,50,8,2,4,3847.58,829.36,Delayed
+1394,West,Standard,744,71,50,7,6,3370.23,746.82,Early
+1395,East,Standard,832,3,3,7,4,2448.99,801.53,Early
+1396,West,Express,953,93,44,7,6,4188.07,810.95,Early
+1397,West,Express,987,64,3,6,5,3434.54,914.16,Early
+1398,South,Same Day,16,44,22,7,1,2062.71,133.94,Early
+1399,West,Same Day,339,53,6,2,1,2605.9,385.2,Early
+1400,North,Same Day,784,24,2,4,4,3190.92,726.09,On Time
+1401,West,Express,682,60,23,6,4,2954.77,672.22,Early
+1402,West,Express,160,3,44,4,1,1827.89,255.89,Early
+1403,East,Express,94,20,2,6,1,1339.82,149.54,Early
+1404,North,Express,156,46,38,4,1,1952.39,243.0,Early
+1405,West,Express,633,15,17,3,3,2462.21,598.82,On Time
+1406,West,Express,390,25,35,4,1,2178.55,352.51,Early
+1407,South,Express,924,94,34,7,6,4111.61,816.74,Early
+1408,West,Same Day,557,78,23,3,2,3330.68,483.05,Early
+1409,West,Same Day,294,71,30,4,1,3328.2,374.4,Early
+1410,South,Same Day,709,17,8,6,4,3067.95,681.44,Early
+1411,East,Same Day,91,84,22,6,1,2049.66,158.58,Early
+1412,West,Express,523,100,44,6,3,3323.17,575.22,Early
+1413,South,Standard,906,9,36,5,5,2934.05,827.52,On Time
+1414,North,Express,824,38,5,2,5,3226.91,701.95,Delayed
+1415,East,Standard,718,48,13,6,5,2621.46,656.82,Early
+1416,North,Same Day,925,60,29,3,5,4062.91,905.31,Delayed
+1417,North,Express,532,63,31,6,3,2844.85,498.82,Early
+1418,South,Same Day,755,86,47,5,4,4321.94,715.01,Early
+1419,West,Express,395,2,16,7,2,1537.35,445.76,Early
+1420,South,Same Day,716,88,42,3,2,4374.15,696.4,Early
+1421,South,Standard,480,72,30,5,3,2292.39,581.98,Early
+1422,South,Standard,128,11,16,7,2,1266.67,155.35,Early
+1423,South,Standard,405,64,12,8,3,2067.64,380.94,Early
+1424,East,Express,541,77,17,8,3,2973.53,486.41,Early
+1425,West,Standard,270,81,16,3,2,2090.9,304.16,Early
+1426,North,Express,814,72,12,4,5,3463.96,795.18,Delayed
+1427,North,Standard,943,21,8,2,6,2909.72,813.13,Delayed
+1428,West,Standard,265,18,20,2,1,1387.41,356.53,Early
+1429,North,Express,743,94,3,5,4,3339.59,695.81,Early
+1430,West,Express,914,64,16,7,3,3459.05,786.84,Early
+1431,North,Standard,235,82,30,2,3,1921.19,217.95,Delayed
+1432,South,Express,62,95,45,7,1,2640.05,88.5,Early
+1433,North,Standard,949,38,23,7,5,2972.33,832.57,Early
+1434,West,Express,876,32,28,5,6,3396.98,794.03,Delayed
+1435,West,Same Day,509,11,40,5,3,3058.22,561.04,Early
+1436,West,Same Day,515,45,5,5,3,2847.06,543.96,Early
+1437,West,Same Day,863,89,20,2,4,4293.19,756.84,Delayed
+1438,West,Same Day,373,33,40,8,1,3020.75,414.75,Early
+1439,East,Same Day,289,41,44,5,1,2675.15,397.26,Early
+1440,East,Standard,602,8,1,2,4,1868.64,656.56,Delayed
+1441,North,Same Day,723,11,30,5,3,3193.77,665.82,Early
+1442,West,Same Day,167,86,21,6,1,2799.34,271.93,Early
+1443,North,Same Day,641,51,20,7,4,3439.97,668.4,Early
+1444,West,Same Day,68,88,6,5,1,2290.42,94.12,Early
+1445,West,Express,736,41,22,3,4,3179.83,668.3,Delayed
+1446,East,Standard,137,17,18,7,1,1053.81,298.4,Early
+1447,East,Same Day,745,76,8,7,3,3857.52,683.96,Early
+1448,South,Same Day,730,46,39,5,4,3621.28,566.84,Early
+1449,East,Same Day,891,32,32,8,4,4204.34,807.96,Early
+1450,South,Standard,124,79,33,4,1,1651.64,244.19,Early
+1451,South,Express,218,80,16,8,1,1856.29,274.66,Early
+1452,South,Standard,535,54,12,5,4,2143.86,556.61,Early
+1453,South,Express,530,86,38,7,2,3080.45,561.53,Early
+1454,South,Same Day,561,92,34,3,1,3667.71,534.6,Early
+1455,North,Same Day,971,20,14,7,5,3855.9,856.02,Early
+1456,East,Standard,246,33,36,8,4,1884.81,302.94,Early
+1457,South,Standard,290,74,33,3,2,2041.49,339.11,Early
+1458,West,Express,368,40,23,2,2,2131.11,396.56,On Time
+1459,East,Express,210,32,50,6,1,1965.22,271.81,Early
+1460,East,Standard,767,97,45,7,5,3369.13,683.66,Early
+1461,South,Express,287,2,2,5,2,1181.59,359.61,Early
+1462,North,Standard,244,97,41,2,3,2124.28,319.17,Delayed
+1463,South,Express,503,33,21,6,2,2696.53,448.96,Early
+1464,North,Standard,13,77,2,5,1,970.4,94.83,Early
+1465,West,Standard,675,30,27,4,6,2612.17,643.72,Delayed
+1466,East,Standard,451,33,9,5,5,1593.43,439.43,On Time
+1467,West,Express,38,77,1,3,1,1880.4,155.89,Early
+1468,North,Express,118,26,11,3,1,1780.37,191.72,Early
+1469,North,Express,619,22,3,4,4,2530.18,601.96,On Time
+1470,West,Standard,736,66,23,2,6,3231.63,672.77,Delayed
+1471,North,Express,814,38,26,6,5,3320.84,671.47,Early
+1472,West,Express,84,90,4,5,1,1941.13,85.19,Early
+1473,East,Standard,847,46,18,3,7,3124.55,801.18,Delayed
+1474,West,Same Day,155,15,6,2,1,1915.35,234.68,Early
+1475,East,Standard,137,98,35,4,1,1675.97,227.15,Early
+1476,West,Express,862,44,22,8,6,3504.41,794.98,Early
+1477,North,Standard,51,49,43,7,1,1385.27,149.38,Early
+1478,West,Same Day,365,75,15,8,1,2861.44,430.76,Early
+1479,North,Standard,50,61,22,8,1,1365.62,157.78,Early
+1480,West,Express,943,67,37,3,6,4006.53,896.04,Delayed
+1481,West,Same Day,43,6,42,4,1,2023.62,141.26,Early
+1482,South,Express,26,9,12,5,1,1237.63,108.78,Early
+1483,North,Same Day,686,6,47,8,4,3343.97,656.57,Early
+1484,South,Same Day,162,73,49,8,1,2870.71,196.15,Early
+1485,North,Standard,387,95,42,6,4,2718.24,394.41,Early
+1486,South,Standard,597,32,38,3,3,2794.5,584.7,On Time
+1487,East,Express,608,41,18,3,4,3114.36,592.97,Delayed
+1488,West,Standard,638,76,45,5,4,3079.54,606.14,Early
+1489,North,Standard,883,8,35,7,5,3027.8,750.87,Early
+1490,North,Same Day,351,72,30,2,1,3414.88,406.26,Early
+1491,West,Standard,990,50,24,6,6,3195.25,925.37,On Time
+1492,North,Same Day,36,92,42,3,1,2782.55,194.55,Early
+1493,North,Same Day,834,62,30,6,3,4179.1,784.87,Early
+1494,South,Same Day,296,84,14,3,2,3101.82,336.86,Early
+1495,North,Express,655,62,6,6,5,2654.31,583.48,Early
+1496,East,Express,740,7,3,4,6,2400.91,751.68,Delayed
+1497,East,Express,177,75,16,8,1,2035.25,251.51,Early
+1498,West,Same Day,619,84,7,3,2,3535.79,602.93,Early
+1499,North,Express,277,80,14,6,1,2469.52,311.44,Early
+1500,West,Express,758,4,9,2,3,2750.76,693.68,Delayed
+1501,East,Standard,830,6,15,4,5,2476.75,791.53,Delayed
+1502,North,Express,464,58,21,4,3,2661.76,430.34,Early
+1503,North,Express,915,22,35,2,5,3513.19,897.02,Delayed
+1504,West,Same Day,694,26,2,6,2,3422.9,711.5,Early
+1505,East,Same Day,410,3,27,5,1,2629.82,413.84,Early
+1506,North,Same Day,931,41,2,2,2,3681.24,810.25,On Time
+1507,West,Same Day,990,60,35,6,4,4508.93,811.39,Early
+1508,East,Same Day,485,14,18,2,1,2780.73,437.94,Early
+1509,West,Same Day,711,75,14,2,3,3399.42,698.0,Delayed
+1510,South,Express,643,82,20,3,4,3157.78,627.01,Delayed
+1511,North,Same Day,567,12,18,6,4,2891.27,573.35,Early
+1512,South,Same Day,585,87,10,5,3,3355.1,494.18,Early
+1513,East,Standard,139,12,25,8,1,1338.2,195.37,Early
+1514,South,Express,831,13,2,3,4,2664.78,819.49,Delayed
+1515,South,Express,372,25,25,2,2,2250.41,393.76,On Time
+1516,East,Express,714,45,33,8,3,3150.19,620.31,Early
+1517,West,Same Day,828,19,36,7,4,3774.99,757.94,Early
+1518,South,Same Day,702,55,31,8,1,3780.52,630.76,Early
+1519,West,Same Day,301,100,14,2,2,2744.84,354.15,On Time
+1520,South,Standard,380,45,1,2,5,1692.5,404.82,Delayed
+1521,West,Same Day,803,8,46,6,3,4144.61,764.13,Early
+1522,East,Standard,38,93,16,6,1,1189.38,81.68,Early
+1523,South,Express,158,53,46,3,1,2163.23,208.45,Early
+1524,East,Same Day,788,55,3,5,4,3761.78,774.02,Early
+1525,South,Standard,305,32,35,3,2,1851.29,289.83,Early
+1526,East,Standard,20,51,41,4,2,1517.83,75.88,Early
+1527,East,Same Day,521,44,6,2,2,2492.58,524.77,On Time
+1528,South,Express,685,82,25,8,6,3420.68,659.47,Early
+1529,South,Express,122,70,13,7,1,1697.3,178.05,Early
+1530,South,Express,196,18,34,2,1,1888.98,245.66,Early
+1531,North,Standard,816,83,8,2,4,2999.9,774.13,Delayed
+1532,West,Standard,753,22,21,3,5,2944.7,736.39,Delayed
+1533,North,Standard,236,37,34,7,3,1771.61,246.03,Early
+1534,North,Standard,319,96,4,7,2,1947.53,369.77,Early
+1535,East,Express,107,56,25,7,1,1561.66,246.08,Early
+1536,South,Same Day,64,59,15,3,1,2164.61,146.56,Early
+1537,West,Standard,632,3,4,2,4,2060.58,562.41,Delayed
+1538,East,Standard,673,28,45,3,4,2680.1,593.36,Delayed
+1539,North,Express,767,74,12,6,3,3182.38,707.17,Early
+1540,South,Same Day,415,35,32,6,2,2823.93,473.43,Early
+1541,East,Same Day,78,61,32,3,1,2489.93,160.77,Early
+1542,South,Express,321,93,28,7,1,2772.89,364.37,Early
+1543,East,Express,298,54,13,2,2,2338.62,298.55,On Time
+1544,South,Same Day,771,63,31,3,5,3743.1,756.12,Delayed
+1545,North,Standard,557,79,14,3,4,2570.08,499.77,Delayed
+1546,West,Same Day,760,97,20,3,3,4016.09,687.82,On Time
+1547,North,Express,157,7,18,4,1,1450.8,250.8,Early
+1548,West,Standard,476,76,29,6,5,2525.53,399.22,Early
+1549,South,Standard,748,49,6,8,6,2632.98,705.36,Early
+1550,East,Express,253,94,32,7,1,2637.78,260.84,Early
+1551,North,Express,500,85,29,5,4,2787.66,500.66,Early
+1552,West,Express,858,31,43,8,3,3366.63,772.32,Early
+1553,North,Same Day,967,58,2,7,4,4232.86,957.83,Early
+1554,West,Same Day,516,61,23,5,2,3209.5,497.08,Early
+1555,North,Standard,374,24,19,4,5,1747.88,472.91,Delayed
+1556,West,Express,491,20,31,3,2,2652.04,516.28,Early
+1557,West,Standard,210,37,5,4,2,1351.42,235.94,Early
+1558,South,Standard,163,4,19,4,1,1166.97,243.63,Early
+1559,West,Standard,459,92,34,8,3,2764.82,455.02,Early
+1560,South,Standard,510,20,10,2,3,1471.0,517.69,Delayed
+1561,West,Express,82,60,25,8,1,1722.21,137.04,Early
+1562,East,Standard,722,24,2,6,5,2338.75,745.21,Early
+1563,East,Express,305,50,11,5,1,2302.78,381.02,Early
+1564,East,Express,26,49,50,3,1,1911.1,122.07,Early
+1565,West,Same Day,650,51,31,8,3,3407.95,689.16,Early
+1566,South,Express,226,96,15,5,1,2147.94,283.77,Early
+1567,South,Same Day,70,36,9,7,1,2059.1,199.9,Early
+1568,West,Express,948,98,23,5,5,3956.4,859.93,On Time
+1569,East,Express,625,100,19,7,3,3251.7,615.76,Early
+1570,East,Express,51,66,9,8,1,1708.91,137.54,Early
+1571,South,Same Day,34,79,35,6,1,1954.53,131.01,Early
+1572,East,Same Day,48,34,21,8,1,2339.67,145.22,Early
+1573,North,Standard,812,36,9,7,5,2500.81,722.81,Early
+1574,South,Same Day,140,6,28,5,1,2085.55,195.96,Early
+1575,East,Same Day,507,39,46,5,2,3022.55,496.93,Early
+1576,South,Same Day,238,42,7,7,2,2217.54,299.59,Early
+1577,North,Same Day,117,58,16,4,1,2487.44,192.38,Early
+1578,South,Standard,181,12,16,6,1,791.29,291.72,Early
+1579,South,Same Day,444,3,33,2,1,2949.52,489.08,Early
+1580,South,Express,487,18,4,3,4,2064.13,481.75,Delayed
+1581,South,Express,111,40,4,5,1,1549.89,244.07,Early
+1582,North,Same Day,875,21,39,3,5,4029.35,874.92,Delayed
+1583,West,Same Day,533,15,40,2,2,3202.06,444.65,On Time
+1584,South,Express,284,97,17,8,2,2299.11,364.49,Early
+1585,South,Express,622,99,37,3,3,3388.78,569.88,On Time
+1586,East,Standard,53,26,39,2,1,979.52,174.43,Early
+1587,South,Express,964,8,29,7,6,3471.32,920.73,Early
+1588,East,Express,826,100,36,4,7,4205.57,725.72,Delayed
+1589,West,Same Day,966,94,38,5,4,4354.8,798.71,Early
+1590,North,Express,26,87,39,2,1,1934.1,154.22,Early
+1591,North,Standard,339,42,50,3,1,2099.08,376.62,Early
+1592,West,Express,578,44,37,5,5,2948.8,495.66,On Time
+1593,North,Same Day,832,14,35,4,5,3870.65,866.78,Delayed
+1594,West,Same Day,506,78,7,7,1,3143.8,529.78,Early
+1595,West,Express,824,2,27,8,3,2945.93,786.0,Early
+1596,West,Same Day,21,37,28,5,1,2226.76,171.43,Early
+1597,North,Standard,327,69,22,8,3,2104.56,338.37,Early
+1598,East,Standard,601,38,14,2,5,2341.22,586.02,Delayed
+1599,West,Express,225,41,7,4,1,1777.25,227.23,Early
+1600,South,Express,348,62,37,3,2,2732.57,354.08,Early
